@@ -24,7 +24,8 @@ To run this project locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/CAFE-MENU.git
+git clone 
+https://chinmayeeavadhani.github.io/CAFE-MENU/
 Navigate to the project directory:
 bash
 Copy code
